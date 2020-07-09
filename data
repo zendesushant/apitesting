@@ -1,0 +1,17 @@
+{
+"School":"Primary",
+name:"SUSHANT",
+age:23,
+currentEmployer:"Mindtree",
+designation:"Developer",
+"repeat":
+
+{
+name:"SUSHANT",
+age:23,
+currentEmployer:"Mindtree",
+designation:"Developer"
+
+
+}
+}
